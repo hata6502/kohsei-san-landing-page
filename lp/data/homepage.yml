@@ -1,0 +1,95 @@
+####################### Banner #########################
+banner:
+  title: コンテンツの信頼度を高めよう
+  image: images/Chat_PNG.png
+  content:
+    その場ですぐに文章を校正できるメモ帳アプリです。<br />
+    オフラインで完全無料、スマートフォンアプリとしてもご利用いただけます。
+  button:
+    enable: true
+    label: 使ってみる
+    link: "#"
+
+##################### Feature ##########################
+feature:
+  enable: true
+  title: Features
+  feature_item:
+    - name: 文章チェックを自動化でサポート
+      icon: ti-text
+      content: 
+        誤字脱字や言い回しなど、自動で何回でも文章をチェックします。
+        文章を送るまえのセルフチェックなどに活用できます。
+
+    - name: スマートフォンにもフレンドリー
+      icon: ti-mobile
+      content: スマホアプリとしてホーム画面に登録すると、ブラウザとはちがう一般のアプリと同じような環境で利用できます。
+
+    - name: オフラインで完全無料
+      icon: ti-heart
+      content: 
+        文章をインターネットに送信したりせず、オフラインでご利用いただけます。
+        校正さんは無償でメンテナンスされています。
+
+######################### Service #####################
+service:
+  enable: true
+  service_item:
+    # service item loop
+    - title: "It is the most advanced digital marketing and it company."
+      images:
+        - "images/service-1.png"
+        - "images/service-2.png"
+        - "images/service-3.png"
+      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable: true
+        label: "Check it out"
+        link: "#"
+
+    # service item loop
+    - title: "It is a privately owned Information and cyber security company"
+      images:
+        - "images/service-1.png"
+      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable: true
+        label: "Check it out"
+        link: "#"
+
+    # service item loop
+    - title: "It’s a team of experienced and skilled people with distributions"
+      images:
+        - "images/service-2.png"
+      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable: true
+        label: "Check it out"
+        link: "#"
+
+    # service item loop
+    - title: "A company standing different from others"
+      images:
+        - "images/service-3.png"
+      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable: true
+        label: "Check it out"
+        link: "#"
+
+################### Screenshot ########################
+screenshot:
+  enable: true
+  title: "Experience the best <br> workflow with us"
+  image: "images/screenshot.svg"
+
+##################### Call to action #####################
+call_to_action:
+  enable: true
+  title: "Ready to get started?"
+  image: "images/cta.svg"
+  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  button:
+    enable: true
+    label: "Contact Us"
+    link: "contact"

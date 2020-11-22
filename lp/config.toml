@@ -1,9 +1,9 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
-title = "Bigspring Hugo"
-theme = "bigspring"
-languageName = "En"
-languageCode = "en-us"
+baseURL = "https://kohsei-san.b-hood.site/"
+title = "校正さん"
+theme = "kohsei-san-landing-page"
+languageName = "Ja"
+languageCode = "ja-jp"
 # post pagination
 paginate = "3"
 # post excerpt

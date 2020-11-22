@@ -99,3 +99,9 @@ Of course, you can also choose what you want to donate, all donations are awesom
 | **Northendlab** | **Influencer** | **Vex** |
 | [![Timer](https://gethugothemes.com/wp-content/uploads/edd/2019/07/Timer.jpg)](https://gethugothemes.com/products/timer-hugo-theme/) | [![Parsa](https://gethugothemes.com/wp-content/uploads/edd/2019/07/parsa-768x576.jpg)](https://gethugothemes.com/products/parsa-hugo-theme/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
 | **Timer** | **Parsa** | **More Hugo Themes** |
+
+## Disclaimer
+
+The following creations are included in this product:
+
+- [ISOMETRIC](https://isometric.online/license/)
