@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://kohsei-san.b-hood.site/"
+baseURL = "https://kohsei-san.b-hood.site/lp/"
 title = "校正さん"
 theme = "kohsei-san-landing-page"
 languageName = "Ja"
