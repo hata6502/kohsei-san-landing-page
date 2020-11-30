@@ -1,7 +1,7 @@
 ---
-title: "Latest News"
-subtitle: ""
+title: Articles
+subtitle: 
 # meta description
-description: "This is meta description"
+description: 文章校正に関する豆知識を綴っていきます。
 draft: false
 ---
