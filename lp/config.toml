@@ -5,13 +5,15 @@ theme = "kohsei-san-landing-page"
 languageName = "Ja"
 languageCode = "ja-jp"
 # post pagination
-paginate = "3"
+paginate = 3
 # post excerpt
-summaryLength = "15"
+hasCJKLanguage = true
+#summaryLength = 15
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # google analytics
 googleAnalytics = "UA-106651880-5" # example : UA-123-45
+
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
