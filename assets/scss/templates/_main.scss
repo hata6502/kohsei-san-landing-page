@@ -80,16 +80,13 @@ a.post-title {
   }
 
   strong {
+    color: $text-color-strong;
     font-weight: 600;
   }
 
   a {
-    color: $text-color;
-    border-bottom: 1px dotted $border-color;
-
-    &:hover {
-      color: $primary-color;
-    }
+    color: $primary-color;
+    border-bottom: 1px dotted $primary-color;
   }
 
   ol,
