@@ -85,8 +85,11 @@ a.post-title {
   }
 
   a {
-    color: $primary-color;
-    border-bottom: 1px dotted $primary-color;
+    color: $text-color-link;
+
+    &:hover {
+      border-bottom: 1px dotted $text-color-link;
+    }
   }
 
   ol,
