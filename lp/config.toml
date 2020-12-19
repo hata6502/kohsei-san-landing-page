@@ -85,6 +85,7 @@ logo_width = "160px"
 # Meta data
 description = "その場ですぐに文章を校正できるメモ帳アプリです。オフラインで完全無料、スマートフォンアプリとしてもご利用いただけます。"
 author = "Tomoyuki Hata"
+images = ["images/favicon.png"]
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
