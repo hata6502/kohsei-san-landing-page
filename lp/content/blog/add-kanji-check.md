@@ -4,17 +4,17 @@ date: 2020-12-08T00:00:00+09:00
 # post image
 image: /lp/images/blog/495597_m.jpg
 # post type (regular/featured)
-type: featured
+type: regular
 # meta description
 description:
-  校正さんに漢字チェック機能を追加しました。
+  校正さんの漢字チェック機能を公開しました。
   文章中で使われている漢字が常用漢字または人名用漢字であることをチェックします。
   日常的に使われている漢字のみを使うことで、文章がよりわかりやすくなります。
 # post draft
 draft: false
 ---
 
-[校正さん](https://kohsei-san.b-hood.site/lp/)に漢字チェック機能を追加しました。
+[校正さん](https://kohsei-san.b-hood.site/lp/)の漢字チェック機能を公開しました。
 文章中で使われている漢字が常用漢字または人名用漢字であることをチェックします。
 日常的に使われている漢字のみを使うことで、文章がよりわかりやすくなります。
 
