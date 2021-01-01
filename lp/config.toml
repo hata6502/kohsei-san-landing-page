@@ -55,6 +55,11 @@ name = "FAQ"
 URL = "https://github.com/hata6502/kohsei-san/discussions"
 weight = 3
 
+[[menu.main]]
+name = "Sponsor"
+URL = "https://github.com/sponsors/hata6502"
+weight = 4
+
 # footer menu middle
 [[menu.footer_middle]]
 name = "クイックスタート"
@@ -63,6 +68,10 @@ URL = "https://kohsei-san.b-hood.site/?text=%E5%86%97%E9%95%B7%E3%81%AA%E8%A1%A8
 [[menu.footer_middle]]
 name = "ブログ"
 URL = "blog"
+
+[[menu.footer_middle]]
+name = "投げ銭"
+URL = "https://github.com/sponsors/hata6502"
 
 # footer menu right
 [[menu.footer_right]]
