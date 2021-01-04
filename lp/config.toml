@@ -42,7 +42,7 @@ link = "plugins/slick/slick.min.js"
 # main menu
 [[menu.main]]
 name = "Blog"
-URL = "blog"
+URL = "blog/"
 weight = 1
 
 [[menu.main]]
@@ -67,7 +67,7 @@ URL = "https://kohsei-san.b-hood.site/?text=%E5%86%97%E9%95%B7%E3%81%AA%E8%A1%A8
 
 [[menu.footer_middle]]
 name = "ブログ"
-URL = "blog"
+URL = "blog/"
 
 [[menu.footer_middle]]
 name = "投げ銭"
