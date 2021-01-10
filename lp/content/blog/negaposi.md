@@ -4,7 +4,7 @@ date: 2020-12-28T00:00:00+09:00
 # post image
 image: /lp/images/blog/2428384_m.jpg
 # post type (regular/featured)
-type: featured
+type: regular
 # meta description
 description: 校正さんのネガポジ判定機能を公開しました。
   リモートワークによって、文章でのコミュニケーションが増えつつあります。
