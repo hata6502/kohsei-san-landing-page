@@ -36,7 +36,8 @@ service:
     - title: 書きあげた原稿のチェックに
       images:
         - images/アンケートシートアイコン.png
-      #content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content: 校正さんには、表記ゆれや表外漢字をチェックする機能があります。
+        セルフチェックをしてから原稿を提出することで、校正者の負担を減らすことができます。
       button:
         enable: true
         label: ブログを見る
@@ -46,7 +47,8 @@ service:
     - title: ビジネス文書のチェックに
       images:
         - images/カクッとしたビジネス鞄のアイコン.png
-      #content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content: 大事なビジネスの取引では、文章から伝わる感情を意識しましょう。
+        意味が明確に定まる文章を書くことで、読み手の負担を減らすことができます。
       button:
         enable: true
         label: ブログを見る
@@ -56,7 +58,8 @@ service:
     - title: 個人のメモ帳として
       images:
         - images/羽根のペンの無料アイコン素材.png
-      #content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content: 校正さんは、オフラインのスマホアプリとしても利用できます。
+        すばやく起動するため、その場ですぐにメモをとることができます。
       button:
         enable: true
         label: ブログを見る
