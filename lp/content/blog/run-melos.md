@@ -4,7 +4,7 @@ date: 2021-01-10T00:00:00+09:00
 # post image
 image: /lp/images/blog/724565_m.jpg
 # post type (regular/featured)
-type: featured
+type: regular
 # meta description
 description: 太宰治の名作「走れメロス」を、冒頭のみ校正さんで校正してみました。
   「走れメロス」の全文は、青空文庫にて公開されています。
