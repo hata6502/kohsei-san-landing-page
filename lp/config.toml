@@ -46,14 +46,19 @@ URL = "blog/"
 weight = 1
 
 [[menu.main]]
-name = "Sponsor"
-URL = "https://github.com/sponsors/hata6502"
+name = "Sentence Stock"
+URL = "https://twitter.com/search?q=%23%E6%96%87%E4%BE%8B%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF"
 weight = 2
 
 [[menu.main]]
-name = "Sentence Stock"
-URL = "https://twitter.com/search?q=%23%E6%96%87%E4%BE%8B%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF"
+name = "Help"
+URL = "https://helpfeel.com/kohsei-san/"
 weight = 3
+
+[[menu.main]]
+name = "Sponsor"
+URL = "https://github.com/sponsors/hata6502"
+weight = 4
 
 # footer menu middle
 [[menu.footer_middle]]
@@ -70,16 +75,16 @@ URL = "https://github.com/sponsors/hata6502"
 
 # footer menu right
 [[menu.footer_right]]
+name = "ヘルプ"
+URL = "https://helpfeel.com/kohsei-san/"
+
+[[menu.footer_right]]
 name = "プライバシーポリシー"
 URL = "https://github.com/hata6502/kohsei-san#%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC"
 
 [[menu.footer_right]]
 name = "免責事項"
 URL = "https://github.com/hata6502/kohsei-san#disclaimer"
-
-[[menu.footer_right]]
-name = "FAQ"
-URL = "https://github.com/hata6502/kohsei-san/discussions"
 
 #################### default parameters ################################
 [params]
