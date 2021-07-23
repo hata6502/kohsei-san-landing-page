@@ -4,7 +4,7 @@ date: 2021-04-24T00:00:00+09:00
 # post image
 image: /lp/images/blog/publicdomainq-0044306fvogdi.jpg
 # post type (regular/featured)
-type: featured
+type: regular
 # meta description
 description: |
   校正さんにプロフェッショナルモードを追加しました！

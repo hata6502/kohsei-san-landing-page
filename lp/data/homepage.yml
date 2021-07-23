@@ -40,7 +40,7 @@ service:
       button:
         enable: true
         label: ブログを見る
-        link: blog/
+        link: https://scrapbox.io/kohsei-san-help/
 
     - title: ビジネス文書のチェックに
       images:
@@ -50,7 +50,7 @@ service:
       button:
         enable: true
         label: ブログを見る
-        link: blog/
+        link: https://scrapbox.io/kohsei-san-help/
 
     - title: 個人のメモ帳として
       images:
@@ -60,7 +60,7 @@ service:
       button:
         enable: true
         label: ブログを見る
-        link: blog/
+        link: https://scrapbox.io/kohsei-san-help/
 
 ################### Screenshot ########################
 screenshot:
