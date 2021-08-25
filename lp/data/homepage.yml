@@ -39,8 +39,8 @@ service:
         セルフチェックをしてから原稿を提出することで、校正者の負担を減らすことができます。
       button:
         enable: true
-        label: ブログを見る
-        link: https://scrapbox.io/kohsei-san-help/
+        label: ヘルプを見る
+        link: https://helpfeel.com/hata6502/?kinds=%E6%A0%A1%E6%AD%A3%E3%81%95%E3%82%93
 
     - title: ビジネス文書のチェックに
       images:
@@ -49,8 +49,8 @@ service:
         意味が明確に定まる文章を書くことで、読み手の負担を減らすことができます。
       button:
         enable: true
-        label: ブログを見る
-        link: https://scrapbox.io/kohsei-san-help/
+        label: ヘルプを見る
+        link: https://helpfeel.com/hata6502/?kinds=%E6%A0%A1%E6%AD%A3%E3%81%95%E3%82%93
 
     - title: 個人のメモ帳として
       images:
@@ -59,8 +59,8 @@ service:
         すばやく起動するため、その場ですぐにメモをとることができます。
       button:
         enable: true
-        label: ブログを見る
-        link: https://scrapbox.io/kohsei-san-help/
+        label: ヘルプを見る
+        link: https://helpfeel.com/hata6502/?kinds=%E6%A0%A1%E6%AD%A3%E3%81%95%E3%82%93
 
 ################### Screenshot ########################
 screenshot:

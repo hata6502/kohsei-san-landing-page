@@ -12,4 +12,4 @@ draft: false
 [校正さん](https://kohsei-san.b-hood.site/)ブログは Scrapbox に移行しました。
 新しいブログページは以下のとおりです。
 
-[校正さん Scrapbox](https://scrapbox.io/kohsei-san-help/)
+[Scrapbox](https://scrapbox.io/hata6502/)
