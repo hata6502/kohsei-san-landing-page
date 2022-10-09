@@ -9,7 +9,7 @@ type: featured
 draft: false
 ---
 
-[校正さん](https://kohsei-san.b-hood.site/)ブログは Scrapbox に移行しました。
+[校正さん](https://kohsei-san.hata6502.com/)ブログは Scrapbox に移行しました。
 新しいブログページは以下のとおりです。
 
 [Scrapbox](https://scrapbox.io/hata6502/)
