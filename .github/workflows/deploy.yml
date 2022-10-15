@@ -10,6 +10,7 @@ jobs:
       - uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 0.104.3
+          extended: true
       - run: hugo --minify --themesDir ../..
         working-directory: lp
       - uses: jakejarvis/s3-sync-action@master
