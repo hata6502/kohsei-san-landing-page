@@ -35,7 +35,7 @@ service:
       images:
         - images/アンケートシートアイコン.png
       button:
-        enable: true
+        enable: false
         label: ヘルプを見る
         link: https://helpfeel.com/hata6502/?q=%E6%96%87%E7%AB%A0%E6%A0%A1%E6%AD%A3
 
@@ -43,7 +43,7 @@ service:
       images:
         - images/カクッとしたビジネス鞄のアイコン.png
       button:
-        enable: true
+        enable: false
         label: ヘルプを見る
         link: https://helpfeel.com/hata6502/?q=%E6%96%87%E7%AB%A0%E6%A0%A1%E6%AD%A3
 
@@ -51,7 +51,7 @@ service:
       images:
         - images/羽根のペンの無料アイコン素材.png
       button:
-        enable: true
+        enable: false
         label: ヘルプを見る
         link: https://helpfeel.com/hata6502/?q=%E6%96%87%E7%AB%A0%E6%A0%A1%E6%AD%A3
 
