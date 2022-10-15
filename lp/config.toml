@@ -55,10 +55,6 @@ name = "Sponsor"
 URL = "https://github.com/sponsors/hata6502"
 weight = 3
 
-[[menu.footer_middle]]
-name = "投げ銭"
-URL = "https://github.com/sponsors/hata6502"
-
 # footer menu right
 [[menu.footer_right]]
 name = "コミュニティ"
@@ -69,28 +65,22 @@ name = "ヘルプ"
 URL = "https://helpfeel.com/hata6502/?q=%E6%96%87%E7%AB%A0%E6%A0%A1%E6%AD%A3"
 
 [[menu.footer_right]]
-name = "プライバシーポリシー"
-URL = "https://github.com/hata6502/kohsei-san#%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC"
-
-[[menu.footer_right]]
-name = "免責事項"
-URL = "https://github.com/hata6502/kohsei-san#disclaimer"
+name = "投げ銭"
+URL = "https://github.com/sponsors/hata6502"
 
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
 logo_width = "160px"
 # Meta data
-description = "その場ですぐに文章を校正できるメモ帳アプリです。オフラインで会員登録不要、スマホアプリとしてもご利用いただけます。"
+description = "文章校正できるメモ帳アプリ"
 author = "Tomoyuki Hata"
 images = ["images/favicon.png"]
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
 ########### footer content ##########
-footer_menu_middle = "Contents"
-footer_menu_right = "Support"
-footer_content = "その場ですぐに文章を校正できるメモ帳アプリです。"
+footer_content = "文章校正できるメモ帳アプリ"
 # copyright
 copyright = "Copyright (c) [Tomoyuki Hata](https://github.com/hata6502). Released under the [MIT License](https://github.com/hata6502/kohsei-san/blob/master/LICENSE). "
 
