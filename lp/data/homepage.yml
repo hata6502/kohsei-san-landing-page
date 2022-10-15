@@ -29,7 +29,7 @@ feature:
 
 ######################### Service #####################
 service:
-  enable: true
+  enable: false
   service_item:
     - title: 書きあげた原稿のチェックに
       images:
